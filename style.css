@@ -1,7 +1,11 @@
+
+@import url(https://db.onlinewebfonts.com/c/4d61682a32c5c01462ef668ef5795ebd?family=Margareth+Rosinante+Demo);
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Margareth Rosinante Demo";
 }
 
 @font-face {
